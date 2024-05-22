@@ -67,7 +67,7 @@ While the project is currently under development, automated tests are not yet im
 
 Here are basic a test I've made so far using the following image:
 
-![Image we have to analyse](m42-star-detection.png)
+![Image we have to analyse](m42-star-detection.jpg)
 
 And here is annoted image I got from this code:
 
